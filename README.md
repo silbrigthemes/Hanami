@@ -2,6 +2,46 @@
 <h1>About</h1>
 <p>花見「はなみ」(Hanami) is the Japanese tradition of watching cherry blossoms. The cherry bloom usually lasts from early March to late May.</p>
 <p>This theme has been designed for @<a href="https://codingcabin.tumblr.com/" title="codingcabin" target="_blank">codingcabin</a>&rsquo;s <a href="https://codingcabin.tumblr.com/post/183138356617/gridmania-challenge-coding-awards" title="gridmania challenge by codingcabin" target="_blank">gridmania challenge</a>, which is part of their on-going <a href="https://codingcabin.tumblr.com/awards#_=_" title="coding awards by codingcabin" target="_blank">coding awards</a> series.</p>
+<h1>Directory</h1>
+ <ul>
+  <li><a href="#features" title="features">Features</a></li>
+    <ul>
+        <li><a href="#layout" title="Layout">Layout</a></li>
+        <li><a href="#sidebar" title="Sidebar">Sidebar</a></li>
+        <li><a href="#design" title="Design">Design</a></li>
+        <li><a href="#extras" title="Extras">Extras</a></li>
+        <li><a href="#accessibility" title="Accessibility">Accessibility</a></li>
+    </ul>
+  <li><a href="#customization-guide" title="Customization Guide">Customization Guide</a></li>
+  <ul>
+    <li><a href="#golden-rules" title="Golden Rules">Golden Rules</a></li>
+    <li><a href="#colors" title="Colors">Colors</a></li>
+    <ul>
+      <li><a href="#accent-1" title="Accent 1">Accent 1</a></li>
+      <li><a href="#accent-2" title="Accent 2">Accent 2</a></li>
+      <li><a href="#accent-3" title="Accent 3">Accent 3</a></li>
+      <li><a href="#accent-4" title="Accent 4">Accent 4</a></li>
+      <li><a href="#accent-5" title="Accent 5">Accent 5</a></li>
+      <li><a href="#accent-6" title="Accent 6">Accent 6</a></li>
+      <li><a href="#body-background" title="Body Background">Body Background</a></li>
+      <li><a href="#bold" title="Bold">Bold</a></li>
+      <li><a href="#italic" title="Italic">Italic</a></li>
+      <li><a href="#lightbox" title="Lightbox">Lightbox</a></li>
+      <li><a href="#post-background" title="Post Background">Post Background</a></li>
+      <li><a href="#questions" title="Questions">Questions</a></li>
+      <li><a href="#sidebar-background" title="Sidebar Background">Sidebar Background</a></li>
+      <li><a href="#text" title="Text">Text</a></li>
+      <li><a href="#colored-text" title="Colored Text">Colored Text</a></li>
+    </ul>
+    <li><a href="#grayscale" title="Grayscale">Grayscale</a></li>
+    <li><a href="#links" title="Links">Links</a></li>
+    <li><a href="#lists" title="Lists">Lists</a></li>
+    <li><a href="#selectors" title="Selectors">Selectors</a></li>
+    <li><a href="#toggles" title="Toggles">Toggles</a></li>
+  </ul>
+  <li><a href="#resources" title="Resources">Resources</a></li>
+  </ul>
+
 <h1>Features</h1>
 <h2>Layout</h2>
 <ul>
