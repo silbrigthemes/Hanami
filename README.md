@@ -2,6 +2,8 @@
 <h1>About</h1>
 <p>花見「はなみ」(Hanami) is the Japanese tradition of watching cherry blossoms. The cherry bloom usually lasts from early March to late May.</p>
 <p>This theme has been designed for @<a href="https://codingcabin.tumblr.com/" title="codingcabin" target="_blank">codingcabin</a>&rsquo;s <a href="https://codingcabin.tumblr.com/post/183138356617/gridmania-challenge-coding-awards" title="gridmania challenge by codingcabin" target="_blank">gridmania challenge</a>, which is part of their on-going <a href="https://codingcabin.tumblr.com/awards#_=_" title="coding awards by codingcabin" target="_blank">coding awards</a> series.</p>
+<p><a href="https://hanamitheme.tumblr.com/" title="live preview">By following this link, you can see a live preview of the theme.</a></p>
+<p><img src="https://66.media.tumblr.com/67497d9b702ba8bd62a31954e529ad18/tumblr_pp6bba8CsD1wsskx3o1_r1_1280.png" alt="image showing the theme on different screen sizes"/></p>
 <h1>Directory</h1>
  <ul>
   <li><a href="#features" title="features">Features</a></li>
